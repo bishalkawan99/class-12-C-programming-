@@ -1,4 +1,4 @@
-\\Write a program to swap two numbers using a third variable.
+//Write a program to swap two numbers using a third variable.
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -14,3 +14,4 @@ printf("%d \t %d",a,b);
 getch();
 
 }
+
